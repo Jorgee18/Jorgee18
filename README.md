@@ -1,128 +1,106 @@
-<h1 align="center">
-Hi, I'm Jorge Villarreal!
-	<a href="https://github.com/Jorgee18" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+# Hi, Welcome to my Github Profile
 
-<pre>
-💻 I am a student of Universidad Catolica de Valparaiso
-📚 Career in Civil Computer Engineering 
-📝 I am very interested in full stack web development and artificial intelligence
-🌟 Main languages: Python, JavaScript and C
-🌐 Intermediate English level	
-</pre>
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFF&size=25&center=false&lines=Civil+Computer+Engineering;"/>
+ 
+ <p>- <i>I am a senior student of Computer Engineering at Pontificia Universidad Católica de Valparaíso. I like to learn about new technologies and improve my skills, always looking for new challenges to grow personally and professionally. I consider myself a proactive person, with a good disposition to work in a team and face problems efficiently.</i></p>
 
-## 🛠️ Workspaces
+## ⚡🙋‍♂️ About Me
 
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Jorgee18"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/Jorgee18"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"></a>
-    <a href="https://github.com/Jorgee18"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"></a>
-	
-### 🧰 Frameworks and Libraries
-<p>
-    <a href="https://github.com/Jorgee18"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/Jorgee18"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/Jorgee18"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
-    <a href="https://github.com/Jorgee18"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/Jorgee18"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="https://github.com/Jorgee18"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
 </br>
 
-<!--
-### 👨🏽‍💻 Workspace
+- 📝 I am very interested in full stack web development and artificial intelligence.
+- 💡 I’m curious about ...Blockchain and shares in stock exchange.
+- 🌟 Main languages: Python, JavaScript and C
+- 🌐 Intermediate English level
+
+<hr>
+</br>
+
+
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
+#### Languages
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+
+#### Development
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+![Reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
+<!--      
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) -->
+<!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp; -->
+
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
+
+#### Tools and Technologies
+
+
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+
+<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
+
+
+#### Data Analytics 
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
+
+#### 💻 Software and Tools
+
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    ![Static Badge](https://img.shields.io/badge/GoogleColab-orange?style=flat-square&logo=googlecolab&color=orange);
 </p>
--->
+</td>
+    <td>
+  
+## 📄📜 Stats
 
-
-##  GitHub Stats
-
-<br/>
-<summary><b>⚡Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Jorgee18">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Jorgee18&show_icons=true" alt="Jorgee18">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgee18" alt="Jorgee18">
-	</a>
-	<br/>
-</p>
-<br/>
-
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
 
 <p align="center">
-	<a href="https://github.com/Jorgee18">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgee18&langs_count=8&layout=compact" alt="Jorgee18">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
-<br/>
-
-## 🤝 My Social Networks
-<p align="center">
-	<a href="mailto:jorgeeduardo2003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/jorge-villarreal-390091297/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Jorgee18"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
-
+     
   </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
+ </tr>
 </table>
 
-------
+## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+<br/>
 
-Last Edited on: 19/07/2022
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jorge-villarreal-390091297/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:jorgeeduardo2003@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+
+
+</br>
+</br>
