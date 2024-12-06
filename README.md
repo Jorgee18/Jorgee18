@@ -21,7 +21,7 @@
 <table width="100%" >
 
  <tr>
-    <td width="65%">
+    <td width="60%">
      
 ## 🛠️ Skills
 
