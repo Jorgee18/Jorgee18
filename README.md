@@ -85,7 +85,7 @@
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/jorge-eduardo-villarreal-gonzalez-07b635394"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="[www.linkedin.com/in/jorge-eduardo-villarreal-gonzalez-07b635394](https://www.linkedin.com/in/jorge-eduardo-villarreal-gonzalez-07b635394/)"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:jorgeeduardo2003@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
 </br>
