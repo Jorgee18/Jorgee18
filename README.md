@@ -65,22 +65,6 @@
 
 </td>
 <td>
-  
-
-<h2>📄📜 Stats</h2>
-
-<p align="center">
- <img
-  src="https://github-readme-stats.vercel.app/api?username=Jorgee18&show_icons=true&hide_title=true&theme=dark"
-/>
-  <br />
-  <img width="100%" src="https://streak-stats.demolab.com?user=Jorgee18&theme=algolia&background=transparent" />
-  <br />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgee18&layout=compact&cache_seconds=86400" />
-</p>
-    </td>
-  </tr>
-</table>
 
 ## 📬📥 Connnect with Me
 
@@ -88,6 +72,5 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jorge-eduardo-villarreal-gonzalez-07b635394/"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:jorgeeduardo2003@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-
 </br>
 </br>
