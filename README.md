@@ -17,6 +17,7 @@
 <hr>
 </br>
 <!-- <table width="100%" > -->
+
 ## 🛠️ Skills
 
 #### Languages
