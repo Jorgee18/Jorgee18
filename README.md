@@ -18,7 +18,7 @@
 </br>
 
 
-<table width="100%" >
+<!-- <table width="100%" > -->
 
  <tr>
     <td width="100%" valign="top">
@@ -66,7 +66,7 @@
 </td>
 <td>
 
-</table>
+<!-- </table> -->
 
 ## 📬📥 Connnect with Me
 
