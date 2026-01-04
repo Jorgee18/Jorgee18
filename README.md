@@ -14,7 +14,6 @@
 - 🌟 Main languages: Python, JavaScript and C
 - 🌐 Intermediate English level
 </br>
-<!-- <table width="100%" > -->
 
 ## 🛠️ Skills
 
