@@ -70,7 +70,9 @@
 <h2>📄📜 Stats</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorgee18&theme=algolia&show_icons=true&cache_seconds=86400" />
+ <img
+  src="https://github-readme-stats.vercel.app/api?username=Jorgee18&show_icons=true&hide_title=true&theme=dark"
+/>
   <br />
   <img width="100%" src="https://streak-stats.demolab.com?user=Jorgee18&theme=algolia&background=transparent" />
   <br />
