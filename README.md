@@ -13,8 +13,6 @@
 - 💡 I’m curious about ...Blockchain and shares in stock exchange.
 - 🌟 Main languages: Python, JavaScript and C
 - 🌐 Intermediate English level
-
-<hr>
 </br>
 <!-- <table width="100%" > -->
 
