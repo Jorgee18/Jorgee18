@@ -66,7 +66,8 @@
 </td>
 <td>
   
-## 📄📜 Stats
+
+<h2>📄📜 Stats</h2>
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorgee18&theme=algolia&show_icons=true&cache_seconds=86400" />
