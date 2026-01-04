@@ -19,9 +19,6 @@
 
 
 <!-- <table width="100%" > -->
-
- <tr>
-    <td width="100%" valign="top">
      
 ## 🛠️ Skills
 
@@ -62,9 +59,6 @@
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-
-</td>
-<td>
 
 <!-- </table> -->
 
