@@ -69,13 +69,12 @@
 ## 📄📜 Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorgee18&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jorgee18&theme=algolia&show_icons=true&cache_seconds=86400" />
   <br />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgee18&theme=algolia&background=transparent" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=Jorgee18&theme=algolia&background=transparent" />
   <br />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgee18&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgee18&layout=compact&cache_seconds=86400" />
 </p>
-
     </td>
   </tr>
 </table>
