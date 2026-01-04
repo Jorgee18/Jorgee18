@@ -66,6 +66,8 @@
 </td>
 <td>
 
+</table>
+
 ## 📬📥 Connnect with Me
 
 <br/>
