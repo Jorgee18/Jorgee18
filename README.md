@@ -6,15 +6,11 @@
 
 ## ⚡🙋‍♂️ About Me
 
-</br>
-
 - 👨 My name is Jorge Villarreal and I'm from Chile
 - 📝 I am very interested in full stack web development and artificial intelligence.
 - 💡 I’m curious about ...Blockchain and shares in stock exchange.
 - 🌟 Main languages: Python, JavaScript and C
 - 🌐 Intermediate English level
-</br>
-
 ## 🛠️ Skills
 
 #### Languages
@@ -55,13 +51,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
-<!-- </table> -->
-
 ## 📬📥 Connnect with Me
 
-<br/>
-
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jorge-eduardo-villarreal-gonzalez-07b635394/"><img width="85px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:jorgeeduardo2003@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-</br>
-</br>
+<a href="mailto:jorge.villarreal.ing@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
