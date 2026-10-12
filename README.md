@@ -2,13 +2,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFF&size=25&center=false&lines=Civil+Computer+Engineering;"/>
  
- <p>- <i>I am a senior student of Computer Engineering at Pontificia Universidad Católica de Valparaíso. I like to learn about new technologies and improve my skills, always looking for new challenges to grow personally and professionally. I consider myself a proactive person, with a good disposition to work in a team and face problems efficiently.</i></p>
+ <p>- <i>I am a Computer Engineering at Pontificia Universidad Católica de Valparaíso. I like to learn about new technologies and improve my skills, always looking for new challenges to grow personally and professionally. I consider myself a proactive person, with a good disposition to work in a team and face problems efficiently.</i></p>
 
 ## ⚡🙋‍♂️ About Me
 
 - 👨 My name is Jorge Villarreal and I'm from Chile
 - 📝 I am very interested in full stack web development and artificial intelligence.
-- 💡 I’m curious about ...Blockchain and shares in stock exchange.
 - 🌟 Main languages: Python, JavaScript and C
 - 🌐 Intermediate English level
 ## 🛠️ Skills
